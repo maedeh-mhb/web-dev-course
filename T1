@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body dir="rtl">
+    <main>
+        <section>
+            <h1>عنوان یک</h1>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor deleniti 
+                quos architecto beatae nesciunt quia ratione. Deleniti illum, maiores voluptates voluptatibus libero quo reiciendis magni, quas impedit nobis asperiores fuga ducimus qui reprehenderit! Sunt provident officiis maiores, libero distinctio aliquid adipisci sed in quibusdam, repellendus qui, voluptate autem harum voluptates rem voluptatem enim quod nesciunt quisquam quas. Inventore suscipit magni odio natus, rerum animi voluptates recusandae iusto ipsum, maiores quidem ad voluptatem nesciunt eum eius laboriosam accusantium tempore non! Perferendis, eum quibusdam cumque, alias odit excepturi voluptas cupiditate commodi ea assumenda vitae nesciunt consequuntur iusto! Cumque voluptatibus, provident culpa vero consectetur laudantium? Aspernatur enim error delectus cumque esse neque sequi iure fuga, ratione similique perspiciatis ea, dolor cum qui, quaerat eveniet suscipit? Quibusdam quas unde accusantium accusamus placeat doloremque? Optio error unde debitis ea inventore aperiam tempore minus consequatur quaerat id magni, voluptates sint recusandae? Fugit voluptatum laudantium dolores obcaecati! Officiis, alias nihil pariatur assumenda dolorem at quod debitis tempora aspernatur
+                 quidem reiciendis consequatur iusto neque, hic nobis earum natus ducimus atque, voluptatum numquam laborum culpa! Inventore nihil ullam sequi ex odit aliquam, aut soluta! Vero exercitationem explicabo ea laboriosam eius quidem dolore voluptates rem praesentium, animi suscipit tempore dignissimos iusto saepe assumenda molestias, aspernatur ad dolor nemo incidunt hic? Ab hic magni ipsa, minus facere omnis quas fugit necessitatibus commodi velit vel quibusdam
+                 asperiores accusamus tempora blanditiis 
+                quidem, magnam maiores. Sapiente tempore nostrum aliquid nulla voluptates 
+                ratione debitis! Ut quidem saepe 
+                modi necessitatibus nihil, reiciendis amet hic optio molestias minima recusandae aut eaque itaque sequi voluptatum nemo eum officia ipsum nam suscipit! Et repellendus incidunt 
+                beatae nobis iste porro quidem quo. Quod rerum sint non eveniet ipsam provident exercitationem! Nihil facere iusto asperiores officiis
+                 laudantium deleniti sed mollitia repudiandae, 
+                 doloribus veniam sunt, consectetur saepe 
+                 voluptates architecto non iste! Ducimus, ipsum? 
+                 Voluptate eos quaerat qui tenetur! Quo quidem dolore quos autem, laboriosam architecto alias incidunt obcaecati quibusdam. Amet magnam iure quisquam quibusdam earum nisi provident expedita exercitationem fugiat sit aperiam maiores quo perferendis, similique dicta facilis. Ut neque quae reprehenderit consequuntur optio aspernatur at laboriosam corporis, cumque asperiores vitae dolore officia atque fugit, in veniam cum magnam, ad obcaecati totam quibusdam. Possimus, dolorem earum! Iusto asperiores laboriosam totam, repudiandae nemo beatae ipsum cupiditate, aliquid et veniam saepe ad doloribus omnis corrupti doloremque placeat,
+                  at voluptates dolorem odio facere perspiciatis cum sed repellat aperiam! Quis quod, sunt pariatur earum voluptatem quae!
+            </p>
+            <ul>
+                <li>
+                    <a href="#" target="_blank">مطلب 1</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">مطلب 2</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">مطلب 3</a>
+                </li> 
+            </ul>
+            <ol>
+                <li>
+                    <img src="img1.jpg" title="ماسک" alt="ماسک" width="100px" height="100px">
+                </li>
+                <li>
+                    <img src="img2.jpg" title="گربه"  alt="گربه" width="100px" height="100px">
+                </li>
+                <li>
+                    <img src="img3.jpg" title="دختر"  alt="دختر" width="100px" height="100px">
+                </li>
+            </ol>
+        
+        
+        </section>
+    </main>
+        
+</body>
+</html>
