@@ -1,0 +1,31 @@
+.header {
+    height: 95vh;
+    background-image: linear-gradient(#0333249c, #39997cab) ,url(/Natours/images/hero.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
+    position: relative;
+    
+
+    &-text-box {
+        color:$color-white;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+        
+    }
+    &-logo-container{
+        height: $spacing-md;
+        position: absolute;
+        left: 30px;
+        top: 30px;
+    }
+    
+    &-logo {
+        height: 40px;
+    }
+    
+}

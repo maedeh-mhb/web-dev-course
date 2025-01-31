@@ -1,0 +1,20 @@
+
+.primary-heading-top{
+    display: block;
+    font-size: $spacing-6xl;
+    letter-spacing: $spacing-sm;
+    font-weight: 400;
+    animation: moveInRight 3s; 
+}
+.primary-heading-bottom{
+    display: block;
+    font-size: $spacing-xxl;
+    letter-spacing: $spacing-xs;
+    font-weight: 400;
+    animation: moveInLeft 3s; 
+    margin-bottom: $spacing-sm;
+    /* animation-delay: 3s; */
+    /* animation-iteration-count: 2;
+    animation-direction: alternate-reverse; */
+    /* animation-fill-mode: both; */
+}
